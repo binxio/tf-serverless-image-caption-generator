@@ -1,0 +1,5 @@
+google-cloud-pubsub
+google-cloud-storage
+google-cloud-aiplatform
+google-cloud-firestore
+vertexai
